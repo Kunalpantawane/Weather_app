@@ -81,7 +81,7 @@ Optional improvements
 - Add an `npm start` script in `backend/package.json` for convenience.
 
 Author
-- **Kunal Pantawne** — GitHub: https://github.com/Kunal-41
+- **Kunal Pantawne** — GitHub: https://github.com/Kunalpantawane
 
 ```
 
