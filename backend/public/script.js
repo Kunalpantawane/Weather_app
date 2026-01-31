@@ -89,9 +89,4 @@ function updateActive(items) {
     }
   });
 }
-input.addEventListener("keydown", e => {
-  if (e.key === "Enter") {
-    getWeather();
-    suggestionBox.innerHTML = '';
-  }
-});
+

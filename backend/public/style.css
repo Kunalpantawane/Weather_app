@@ -26,6 +26,7 @@ body {
   box-shadow: 0 8px 20px rgba(0,0,0,0.15);
   backdrop-filter: blur(6px);
   transition: transform 0.2s ease;
+  position: relative;
 }
 
 .container:hover {
